@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library path="lib/libarchie_sting_arm_moveit_ikfast_plugin">
+  <class name="archie_sting_arm/IKFastKinematicsPlugin" type="archie_sting_arm::IKFastKinematicsPlugin" base_class_type="kinematics::KinematicsBase">
+    <description>IKFast61 plugin for closed-form kinematics of archie sting_arm</description>
+  </class>
+</library>
